@@ -1,3 +1,1 @@
-# Node.js basics
-
-## !!! Please don't submit Pull Requests to this repository !!!
+## Please don't forget to go to the `develop` branch
